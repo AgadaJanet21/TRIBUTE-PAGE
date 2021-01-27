@@ -1,0 +1,72 @@
+body {
+    position: relative;
+    background: white;
+    border-radius: 30%;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+  }
+  #main{ 
+  background: #351f39;
+    margin: 15px 10px;
+  }
+  
+  #title{
+    text-align: center;
+    background: #351f39;
+    font-size: 35px;
+    line-height: 30px;
+    color: white;
+    padding-top: 10px;
+   }
+  
+  .p{ 
+  font-size: 18px;
+    letter-spacing: 0;
+    color: #f4f5db ;
+    text-align: center;
+  }
+  
+  figure {
+    text-align: center;
+    background: white;
+    padding: 25px;
+    margin: 10px;
+    
+  }
+ 
+    
+    
+  figcaption {
+    text-align: center;
+    color: #351f39;
+    font-size: 20px;
+   
+  }
+  section {
+    color: white;
+    
+    line-height: 30px;
+    font-size: 18px;
+    padding: 10px;
+  }
+
+#tribute-info{
+  
+  padding-right: 30%;
+  padding-left: 30%;
+}
+.tri {
+  padding: 0;
+}
+  
+  .tribute-heading{
+    text-align: center;
+    padding: 15px;
+  }
+  
+  #tribute-link {
+    color: #8b5e83;
+  }
